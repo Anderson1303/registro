@@ -1,0 +1,11 @@
+.no-data {
+    font-size: 1.1em;
+    color: #000000;
+}
+
+.register-falta {
+    margin-left: 64%;
+    height: 50%;
+    background-color: green;
+    font-size: 1.1em;
+}
